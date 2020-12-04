@@ -6,5 +6,5 @@ It's also a sort of sandbox for the participants to play around with GitHub's fe
 
 This repository contains the following documents:
 
-- [Markdown basics](markdown-basics.md) 
+- [Markdown basics](markdown-basic.md) 
 - [Create a new GitHub issue template](create-gh-issue-template.md) - task/tutorial
