@@ -9,7 +9,7 @@ Another example woudld be `behaviour` (BrE) vs. `behavior` (AmE).
 
 # Dead links
 
-One of the checkers defined for this repo can also check for [dead links](https://dead.links), i.e. verify that all the links work and link those that don't.
+One of the checkers defined for this repository can also check for [dead links](https://dead.links), i.e. verify that all the links work and link those that don't.
 To learn more about dead links, [Google](https://google.com) the topic. 
 
 ⬅ Go back to the main [README.md](READ.ME)
