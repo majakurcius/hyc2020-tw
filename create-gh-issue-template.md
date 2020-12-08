@@ -17,7 +17,7 @@ To open a new issue in the [`hyc2020-tw` repository](https://github.com/majakurc
 
 To add your own issue type, follow this guide.
 
-> **NOTE:** You can also create new files, branches, commits, and pull requests (PRs). This guide aims to show you how to do it from a command line interface (CLI).
+> **NOTE:** You can also create new files, branches, commits, and pull requests (PRs) from the GitHub UI. This guide aims to show you how to do it from a command line interface (CLI).
 
 ## Prerequisites
 
