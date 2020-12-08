@@ -28,7 +28,7 @@ Markdown lets you add some basic formatting to your text. For example, you can f
 - To use *italics*, add one asterisk (`*`) before and after the text:
 
   ```
-  This text is italicized.
+  *This text is italicized.*
   ```
   
 ###### [🔝 Go back up](#markdown-basics)
@@ -71,7 +71,11 @@ Markdown lets you easily add hyperlinks to text.
 
 ## Code
 
-To format a piece of text as code, you have two options: inline code and code blocks.
+To format a piece of text as code, you have two options: `inline code` and 
+
+```
+code blocks.
+```
 
 - To go with inline code formatting, use single backticks (`` ` ``).
 
@@ -79,18 +83,11 @@ To format a piece of text as code, you have two options: inline code and code bl
   `This will be formatted as inline code.` 
   ```
   
-  Inline code formatting looks like this: `inline code`.
-  
 - To go with a code block, use three backticks before and after the code.
 
   ``````
   ```This will be formatted as a code block.```
   ``````
-  
-  Code blocks look like this:
-  ```
-  Code block
-  ```
   
 ###### [🔝 Go back up](#markdown-basics)
 
@@ -146,7 +143,7 @@ To create such a table, use the vertical bar (`|`) to separate columns, and hyph
 
 The first row contains the table header, the second row separates the header from the actual content, the third and subsequent rows are the content.
 
-> **TIP:** Note how you can use the colon (`:`) in the second row to align content in a given column. Place it on the right-hand side, left-hand side, or on both sides of the cell to align the content in the whole column along the left, right, or center it, respectively.
+> **TIP:** Note how you can use the colon (`:`) in the second row to align content in a given column. Place it on the inner right-hand side, inner left-hand side, or on both sides of the cell  to align the content in the whole column along the left, right, or center it, respectively.
 
 ###### [🔝 Go back up](#markdown-basics)
 
