@@ -15,7 +15,6 @@ This document contains the following sections:
 - [Lists](#lists)
 - [Tables](#tables)
 - [Comments](#comments)
-- [Images](#images)
 
 ## Basic formatting
 
@@ -165,8 +164,8 @@ To add a comment, use the tags like this:
 
 ###### [🔝 Go back up](#markdown-basics)
 
-## Images                                  
+<!-- ## Images                                  
 
-To do.
+TODO -->>
 
 ###### [🔝 Go back up](#markdown-basics)
