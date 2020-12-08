@@ -15,6 +15,7 @@ This document contains the following sections:
 - [Lists](#lists)
 - [Tables](#tables)
 - [Comments](#comments)
+- [Images](#images)
 
 ## Basic formatting
 
