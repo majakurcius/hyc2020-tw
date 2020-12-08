@@ -89,10 +89,6 @@ To create a new issue type for the [`hyc2020-tw` repository](https://github.com/
 13. Fill in the PR title and provide a short description of the changes you made. If you need examples, see [PRs in Kyma](https://github.com/kyma-project/kyma/pulls).
 
     ![Pull request](assets/pull-request.png)
-
-    Optionally, add a documentation label on the right:
-    
-    ![Documentation label](assets/label.png)
     
 14. Click on **Create pull request**. Congratulations! You just created your first PR!
 
