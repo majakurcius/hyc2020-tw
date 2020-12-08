@@ -35,7 +35,7 @@ To create a new issue type for the [`hyc2020-tw` repository](https://github.com/
 
     ![Fork the repo](assets/fork.png)
     
-    Click your username. GitHub will then take you to the forked repository.
+    GitHub will take you to the forked repository.
     
 2. Clone the forked repository. Click **Code**, select the **HTTPS** tab, and copy the URL.
 
