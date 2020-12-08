@@ -167,6 +167,6 @@ To add a comment, use the tags like this:
 
 ## Images                                  
 
-TODO
+To do.
 
 ###### [🔝 Go back up](#markdown-basics)
