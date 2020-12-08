@@ -7,7 +7,7 @@ By default, when you open a new GitHub issue, it's blank.
 However, GitHub lets you define your own issue templates, which automatically populate a new issue of a given type with the text you predefine.
 This way, you can tell the potential contributor what kind of information you need them to include, and how the issue description should be structured. This makes issue processing much easier! 
 
-This is an example of a predefined general issue in [Kyma](https://github.com/kyma-project/kyma):
+This is an example of a predefined issue in [Kyma](https://github.com/kyma-project/kyma):
 
 ![GitHub issue from template](assets/issue-from-template.png)
 
@@ -95,4 +95,4 @@ To create a new issue type for the [`hyc2020-tw` repository](https://github.com/
     
 14. Click on **Create pull request**. Congratulations! You just created your first PR!
 
-For your changes to be published, your PR needs to be reviewed and approved by the content owner(s). If you want me to take a look, or have other questions, send me an email (`maja.kurcius_at_sap_dot_com`) or add the `help wanted` label to your PR. 
+For your changes to be published, your PR needs to be reviewed and approved by the content owner(s). If you want me to take a look, or have other questions, send me an email (`maja.kurcius_at_sap_dot_com`) or add the `help wanted` label to your PR.~~~~ 
