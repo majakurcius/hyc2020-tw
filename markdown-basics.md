@@ -164,8 +164,24 @@ To add a comment, use the tags like this:
 
 ###### [🔝 Go back up](#markdown-basics)
 
-<!-- ## Images                                  
+## Images                
 
-TODO -->>
+To create an image, use this syntax:                  
+
+```
+![ALT_IMAGE_TEXT](PATH_TO_THE_IMAGE)
+```
+
+This is an image for cat lovers:
+
+![Cat](assets/cat.gif)
+
+This is an image for dog lovers:
+
+![Dog](assets/dog.gif)
+
+This is an image for everyone else:
+
+![image](assets/trust-me.png)
 
 ###### [🔝 Go back up](#markdown-basics)
