@@ -4,6 +4,8 @@ Markdown is a lightweight markup language with plain-text syntax.
 This document presents some basic Markdown syntax. 
 If you're new to Markdown, or need to refresh your memory, this is a good place to start.
 
+> **NOTE:** Markdown offers more features than described here. This document is just an introduction to help you get started.
+
 This document contains the following sections:
 
 - [Basic formatting](#basic-formatting)
