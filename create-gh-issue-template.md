@@ -95,4 +95,4 @@ To create a new issue type for the [`hyc2020-tw` repository](https://github.com/
     
 14. Click on **Create pull request**. Congratulations! You just created your first PR!
 
-15. For your changes to be published, your PR needs to be reviewed and approved by the content owner(s). If you want me to take a look, or have other questions, send me an email or add the `help wanted` label to your PR. 
+15. For your changes to be published, your PR needs to be reviewed and approved by the content owner(s). If you want me to take a look, or have other questions, send me an email (`maja.kurcius_at_sap_dot_com`) or add the `help wanted` label to your PR. 
