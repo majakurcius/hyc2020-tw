@@ -49,9 +49,10 @@ To create a new issue type for the [`hyc2020-tw` repository](https://github.com/
     git clone {THE_URL_YOU_COPIED_IN_STEP_2}
     ```
    
-4. Create a new branch. Replace `{NAME_OF_YOUR_BRANCH}` with your own name of the branch.
+4. Navigate to the repo and create a new branch. Replace `{NAME_OF_YOUR_BRANCH}` with your own name of the branch.
 
     ```bash
+    git cd hyc2020-tw
     git checkout -b {NAME_OF_YOUR_BRANCH}
     ```
    
